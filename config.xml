@@ -30,6 +30,7 @@
                         <folder_path>/var/spool/cron/</folder_path>
                         <folder_split>n</folder_split>
                         <folder_split_exclude>
+				<exclude>bla</exclude>
                         </folder_split_exclude>
                 </folder>
                 <folder>
